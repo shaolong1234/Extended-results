@@ -1,1 +1,1 @@
-This file shows the extended results, including proofs of Propositions 1-11, the illustrative examples of approximating nonlinear functions and parameter descriptions.
+This file shows the extended results, including comparison of literature, proofs of propositions, the computational results for AP data set.
